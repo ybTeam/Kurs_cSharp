@@ -1,2 +1,1 @@
-# Kurs_cSharp
-Solucje programów tworzone dla Kursu C#
+# Kurs C-SharpZnajdziesz tu kody źródłowe programów tworzonych podczas kursu C# prowadzonego przez blog: [www.ybTeam.pl](http://www.ybteam.pl/?page_id=53)
